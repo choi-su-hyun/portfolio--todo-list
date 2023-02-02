@@ -7,3 +7,4 @@
 4. HTML
 5. CSS
 ## 데이터베이스 설계
+![todo-list-ERD](https://user-images.githubusercontent.com/86158560/216279435-12ae24ce-2471-4887-898b-a0f790ebb4f7.png)
