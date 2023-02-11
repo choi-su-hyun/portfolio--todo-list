@@ -1,8 +1,12 @@
 # Todo List(portfolio)
 오늘의 해야할 일을 기록하고 저장하는 서비스.(현재 날짜를 확인 할 수 있도록 제작하였습니다)  
 데이터베이스 설계, 프론트, 백 개발을 통해 vue와 express를 이용해 전체적인 개발을 학습할 수 있는 계기가 되었던 포트폴리오 입니다.
+  
 Front 파일
 [https://github.com/choi-su-hyun/todolist-front](https://github.com/choi-su-hyun/todolist-front)
+  
+Back 파일
+[https://github.com/choi-su-hyun/todolist-back](https://github.com/choi-su-hyun/todolist-back)
       
 ## 사용 기술
 1. vue.js
