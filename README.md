@@ -31,6 +31,7 @@
 - bcrypt를 통한 비밀번호 암호화
 - cookie를 이용하여 로그인 상태 유지
 - jwt 토큰을 통해 유저 정보 확인 및 보안 유지
+- try, catch 에러 처리를 통한 에러 
     
 ## 프로젝트 사용 영상
 https://user-images.githubusercontent.com/86158560/216753816-df5a28cf-384c-4845-9392-f4ada7831aa0.mp4
