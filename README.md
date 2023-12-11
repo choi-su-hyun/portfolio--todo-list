@@ -1,6 +1,5 @@
 # Todo List(portfolio)
-오늘의 해야할 일을 기록하고 저장하는 서비스.  
-데이터베이스 설계, 프론트, 백 개발을 통해 vue와 express를 이용해 전체적인 개발을 학습할 수 있는 계기가 되었던 포트폴리오 입니다. 이전에 워드프레스를 통해 주로 웹을 경험해왔지만 이번 경험을 통해 전체적인 흐름을 직접 경험해보고, 직접 API도 만들고 사용해보니 흥미를 높여준 포트폴리오였습니다.
+오늘의 해야할 일을 기록하고 저장하는 서비스 입니다. 데이터베이스 설계, 프론트, 백 개발을 Vue와 Express를 이용해 전체적인 개발을 학습할 수 있는 계기가 되었던 포트폴리오 입니다.
   
 **Front Github**  
 [https://github.com/choi-su-hyun/todolist-front](https://github.com/choi-su-hyun/todolist-front)
@@ -9,9 +8,9 @@
 [https://github.com/choi-su-hyun/todolist-back](https://github.com/choi-su-hyun/todolist-back)
       
 ## 사용 기술
-1. vue.js
-2. express.js
-3. node.js
+1. Vue.js
+2. Express.js
+3. Node.js
 4. MySQL
 5. HTML
 6. CSS
